@@ -1,4 +1,4 @@
-Construí meu primeiro Sorteador de Números Online! 
+Link do projeto: https://sorteadordevclub2.netlify.app/
 
 Desenvolvi o Sorteador, uma aplicação web simples e intuitiva,
 para realizar sorteios de números dentro de um intervalo definido pelo usuário.
