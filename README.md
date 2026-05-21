@@ -11,7 +11,7 @@ para realizar sorteios de números dentro de um intervalo definido pelo usuário
  propriedades de transição e box-shadow para dar um efeito de profundidade flutuante no botão.
  
  JavaScript: Para dar vida à aplicação! Usei lógica de programação com Math.random() e Math.floor() 
- para gerar os números aleatórios a partir dos valores capturados nos inputs.
+ para, gerar os números aleatórios a partir dos valores capturados nos inputs.
 
 O maior aprendizado: Nesse projeto, consegui entender a fundo como funciona a manipulação
 do DOM pelo JavaScript e como alinhar elementos perfeitamente com Flexbox no CSS, 
