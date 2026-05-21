@@ -10,7 +10,7 @@ para realizar sorteios de números dentro de um intervalo definido pelo usuário
  CSS3: Para criar um design moderno, centralizado e responsivo. Usei Flexbox para alinhar os elementos, 
  propriedades de transição e box-shadow para dar um efeito de profundidade flutuante no botão.
  
- JavaScript (ES6): Para dar vida à aplicação! Usei lógica de programação com Math.random() e Math.floor() 
+ JavaScript: Para dar vida à aplicação! Usei lógica de programação com Math.random() e Math.floor() 
  para gerar os números aleatórios a partir dos valores capturados nos inputs.
 
 O maior aprendizado: Nesse projeto, consegui entender a fundo como funciona a manipulação
